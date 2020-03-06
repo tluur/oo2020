@@ -1,0 +1,7 @@
+Matemaatika A 90
+Kehaline B 88
+Laulmine C 75
+Tööõpetus E 63
+Emakeel F 44
+Programeerimine A 99
+Keemia B 82
