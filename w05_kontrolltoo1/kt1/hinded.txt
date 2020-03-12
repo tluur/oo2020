@@ -1,0 +1,7 @@
+Matemaatika A 2
+Kehaline B 1
+Laulmine C 3
+Tööõpetus D 4
+Emakeel A 6
+Programeerimine C 2
+Keemia B 3
